@@ -1,0 +1,552 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300;1,900&display=swap');
+
+
+
+  header, main {
+	position: relative;
+	
+  }
+
+
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	background-color: black;
+	justify-content: center;
+	border: 200000px;
+	color: #fff;
+	align-items: center;
+	display: inline-block;
+
+}
+
+
+
+.imagem {
+	width: 60%;
+  }
+
+
+.description {
+	align-items: center;
+}
+
+.logo img {
+	height: 50px;
+  }
+
+
+  header {
+	background-color: transparent;
+	position: relative;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 1;
+	box-shadow: 0 4px 4px rgba(0,0,0,0.1);
+	color:rgb(24, 23, 23)
+  }
+  
+  .container {
+	position: relative;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 20px;
+  }
+  img {
+  max-width: 100%;
+  display: block;
+  transition: all 0.5s ease-in-out;
+  position: relative;
+  z-index: 1;
+}
+
+img:hover {
+  transform: scale(1.1);
+  z-index: 2;
+}
+  
+  .logo img {
+	max-width: 100%;
+	height: auto;
+  }
+  
+  nav ul {
+	list-style: none;
+	display: flex;
+  }
+  
+  nav ul li {
+	margin-right: 20px;
+  }
+  
+  nav ul li a {
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+  }
+ 
+
+  nav ul li a:hover {
+	color: #333;
+  }
+  
+  .search-box {
+	display: flex;
+	align-items: center;
+	background-color: transparent;
+	padding: 10px;
+	border-radius: 20px;
+  }
+  
+  .search-box input {
+	border: none;
+	background-color: transparent;
+	padding: 5px;
+	margin-right: 10px;
+	font-size: 16px;
+	width: 200px;
+  }
+  
+  .search-box button {
+	background-color: transparent;
+	border: none;
+	cursor: pointer;
+  }
+  
+  
+  
+  table {
+	border-collapse: collapse;
+	width: 100%;
+  }
+  
+  td {
+	text-align: center;
+	padding: 10px;
+  }
+  
+  a {
+	color: #000;
+	text-decoration: none;
+  }
+  
+  img {
+	width: 30px;
+	height: 30px;
+  }
+  
+  /* Estilos para as imagens das redes sociais */
+  
+  img[src="facebook.png"] {
+	content: url('facebook.png');
+  }
+  
+  img[src="../img/z4.png"] {
+	content: url('../img/z4.png');
+	width: 30px;
+	height: 30px;
+  }
+  
+  img[src="twitter.png"] {
+	content: url('twitter.png');
+  }
+  
+  img[src="youtube.png"] {
+	content: url('youtube.png');
+  }
+
+
+
+
+nav img {
+	float: left;
+	margin-left: 20px;
+  }
+
+  nav ul {
+	float: right;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+  }
+  
+  li {
+	display: inline-block;
+  }
+  
+  nav li a {
+	text-align: right;
+	padding: 14px 16px;
+	text-decoration: none;
+  }
+  
+
+h1 {
+	font-family: "Roboto";
+	color: #333;
+	margin: 0;
+}
+p {
+	font-family: 'Roboto', sans-serif;
+	margin-top: 20px;
+	align-items: center;
+}
+
+
+nav {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+  }
+
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+ul {
+	list-style: none;
+	display: flex;
+  }
+
+nav li {
+	display: inline-block;
+	margin-right: 20px;
+	justify-content: center;
+}
+
+li {
+	margin-right: 20px;
+  }
+  
+
+nav a {
+	color: #fff;
+	text-decoration: none;
+}
+
+/* Estilos do conteúdo principal */
+main {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+article {
+	margin-bottom: 30px;
+}
+
+h2 {
+	
+	margin: 0 0 10px;
+	color: #fff;
+}
+
+.container {
+	position: relative;
+	justify-content: center;
+	align-items: center;
+	
+  }
+  
+img {
+	margin-top: 20px;
+	max-width: 100%;
+	height: auto;
+	align-items: center;
+	border: 150px;
+	margin-bottom: 20px;
+
+}
+
+img {
+	margin-top: 20px;
+	display: block; /* Exibe a imagem como um bloco */
+	margin: 0 auto; /* Define uma margem automática para centralizar horizontalmente */
+}
+footer {
+	background-color: #333;
+	padding: 10px 20px;
+	text-align: center;
+}
+
+.container {
+	display: grid;
+	grid-template-columns: auto 1fr auto;
+	justify-content: center;
+	align-items: center;
+  }
+  
+  .item {
+	margin: 10px;
+	text-align: center;
+  }
+  
+
+  
+
+  .instagram-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 50px;
+  }
+  
+  .instagram-grid {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	gap: 10px;
+  }
+
+  .instagram-grade {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	gap: 10px;
+	margin: 30px;
+  }
+  
+  .instagram-item {
+	position: relative;
+	overflow: hidden;
+  }
+  
+  .instagram-item img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	transition: transform 0.2s ease-in-out;
+  }
+  
+  .instagram-item:hover img {
+	transform: scale(1.1);
+  }
+  
+  .instagram-item::before {
+	content: "";
+	padding-top: 100%;
+  }
+  
+  .instagram-item::after {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	box-shadow: 0 0 5px}
+
+	.instagram-post {
+		width: 100%;
+		max-width: 600px;
+		margin: 0 auto;
+		text-align: center;
+	  }
+	  
+	  .instagram-post img {
+		width: 100%;
+		height: auto;
+	  }
+	  
+	  .post-description {
+		font-size: 16px;
+		line-height: 1.5;
+		margin-top: 10px;
+		text-align: left;
+	  }
+	  
+	  .instagram-gallery {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+	z-index: 1;  
+	}
+	  
+	  .instagram-post {
+		width: 32%;
+		margin-bottom: 20px;
+	  }
+	  
+	  .instagram-post img {
+		width: 100%;
+		height: auto; 
+		
+			
+
+
+			
+	  }
+
+
+	  img {
+		max-width: 100%;
+		display: block;
+		transition: all 0.5s;
+	  }
+	  
+	  img:hover {
+		transform: scale(1.1);
+		z-index: 2;
+		
+	  }
+
+	  .post-description {
+		
+		font-size: 16px;
+		line-height: 1.5;
+		text-align: center;
+	  }
+	  
+	  .center-text {
+		display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  border: 2px ;
+  padding: 20px;
+	
+	  }
+	  
+	  .center-text h1 {
+		font-size: 36px;
+		text-align: center;
+		color: #333;
+		font-weight: bold;
+		border: 2px ;
+		padding: 20px;
+	  }
+	  .center-text2 {
+		position: relative;
+		height: 100%;
+	  }
+
+
+	  .grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+}
+
+.profile {
+  text-align: center;
+}
+
+.profile img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+.profile h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+a {
+	color: #333;
+}
+.profile p {
+  margin-bottom: 20px;
+}
+
+.social-links {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+.social-links li {
+  margin: 0 10px;
+}
+
+.social-links a {
+  color: #333;
+  font-size: 24px;
+}
+
+.social-links a:hover {
+  color: #3b5998;
+}
+
+.main {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 20px;
+  }
+  
+  .article {
+	margin-bottom: 50px;
+  }
+  
+  .article-title {
+	font-size: 36px;
+	font-weight: bold;
+	margin-bottom: 20px;
+  }
+  
+  .article-summary {
+	font-size: 24px;
+	font-weight: bold;
+	margin-bottom: 20px;
+	
+  }
+  
+  .article-content {
+	font-size: 18px;
+	line-height: 1.5;
+	margin-bottom: 40px;
+  }
+
+  .divisor {
+	border-bottom: 3px solid #aaa;
+	padding-left: 1100px;
+	margin: 10px 0;
+  }
+  
+  img {
+	width: 50%;
+	height: auto;
+  }
+  blockquote {
+	border-left: 3px solid #aaa;
+	padding-left: 20px;
+	margin: 10px 0;
+  }
+  
+  blockquote p {
+	font-style: italic;
+	margin: 0;
+
+}
+  
+  cite {
+	display: block;
+	font-weight: bold;
+	margin-top: 10px;
+	text-align: right;
+  }
+  
+  .image {
+	float: left;
+	margin: 0 20px 10px 0;
+	width: 100px;
+	height: 100px;
+	object-fit: cover;
+	border-radius: 50%;
+  }
+  
+  
+  .footer {
+	background-color: #eee;
+	border-top: 1px solid #ddd;
+	padding: 10px;
+	text-align: center;
+  }
+  .div-retangulo {
+	width: 3000px; /* Define a largura da div como 30 pixels */
+	height: 3000px;
+  }

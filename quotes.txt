@@ -1,0 +1,260 @@
+ <header>
+        <div class="container"
+		img src="img/cabide.png" alt="" width="40"> 
+        <h1>IAdress</h1>
+    </div>
+
+       <a href="#">
+            <img src="img/mod1.jpg" alt="Produto 1">
+            <h3>Produto 1</h3>
+            <p>Conceito IA-Mandela</p>
+          </a>
+        </li>
+        <li>
+          <a href="#">
+
+          Arte com balaclava wrong era renascentista
+
+
+
+
+
+
+          <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../style/style.css">
+</head>
+<body>
+    <header>
+        <nav>
+			<div class="container">
+            <img src="img/cabide.png" alt="Imagem" width="40">
+            <h1>  IAdress</h1>
+          </div>
+		
+			<ul>
+
+				<li><a href="index.html">Início</a></li>
+			
+				<li><a href="pages/male.html">Masculino</a></li>
+				<li><a href="pages/male.html">Feminino</a></li>
+				<li><a href="pages/male.html">Infantil</a></li>
+				<li><a href="pages/male.html">SObre</a></li>
+                </ul>
+                <ul>
+               <li><img src="img/sacolas-de-compras.png" alt="" width="40"></li>
+               <li><img src="img/usuario-de-perfil.png" alt="" width="40"></li>
+                </ul>
+			
+		</nav>
+	</header>
+    <h1>Minha Loja Online</h1>
+    <p>A melhor seleção de produtos a preços acessíveis.</p>
+    <a href="#" class="button">Comprar agora</a>
+  </header>
+
+  <main>
+    <section class="featured-products">
+      <h2>Produtos em destaque</h2>
+      <ul>
+        <li>
+			<div class="product-description">
+				<img src="img/mod1.jpg" alt="Descrição do Produto">
+				<h2>Nome do Produto</h2>
+				<p class="price">$100</p>
+				<p class="description">Descrição do produto. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sit amet nulla ullamcorper, interdum dolor eget, consectetur metus.</p>
+				<button class="add-to-cart">Adicionar ao Carrinho</button>
+			 </div>
+        </li>
+        <li>
+          <a href="#">
+            <img src="img/mod2.jpg" alt="Produto 2">
+            <h3>Produto 2</h3>
+            <p>R$ 49,99</p>
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            <img src="img/mod3.jpg" alt="Produto 3">
+            <h3>Produto 3</h3>
+            <p>R$ 149,99</p>
+          </a>
+        </li>
+      </ul>
+    </section>
+
+    <section class="popular-products">
+      <h2>Produtos populares</h2>
+      <ul>
+        <li>
+          <a href="#">
+            <img src="img/mod4.jpg" alt="Produto 4">
+            <h3>Produto 4</h3>
+            <p>R$ 199,99</p>
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            <img src="img/mod5.jpg" alt="Produto 5">
+            <h3>Produto 5</h3>
+            <p>R$ 299,99</p>
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            <img src="img" alt="Produto 6">
+            <h3>Produto 6</h3>
+            <p>R$ 249,99</p>
+          </a>
+        </li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>Minha Loja Online - Todos os direitos reservados</p>
+  </footer>
+</body>
+</html>
+
+
+
+
+
+
+
+
+	<div class="container">
+		<div class="item">
+		  <img src="img/Snapinsta.app_305169324_1751712635205702_673840899066773250_n_1080.jpg">
+		  <div class="description">Arte inspirada no famoso quadro da vanguarda <br> europeia “O Filho do Homem” de René Magritte</div>
+		</div>
+		<div class="item">
+		  <img src="img/mod7.jpg">
+		  <div class="description">Arte inspirada no quadro do Jovem principe Felipe que foi feito por Ticiano (1550).</div>
+		</div>
+		
+		<div class="item">
+		  <img src="img/mod5.jpg">
+		  <div class="description">Concept Juggla</div>
+		</div>
+	  </div>
+
+	  
+
+	<div class="container">
+
+
+		
+		<div class="item">
+		  <img src="img/mod1.jpg">
+		  <div class="description">Arte inspirada no efeito mandela Da moda que é Itens e roupas aparecendo em uma era não muito condizente.</div>
+		</div>
+		<div class="item">
+		  <img src="img/mod2.jpg">
+		  <div class="description">Arte com conceitos renacentista usando como inspiração também o efeito Mandela.</div>
+		</div>
+		<div class="item">
+		  <img src="img/mod3.jpg">
+		  <div class="description">Arte com moletom e balaclava wrong era renascentista</div>
+		</div>
+	  </div>
+
+	
+
+
+  	<div class="instagram-container">
+		<div class="instagram-grid">
+		  <div class="instagram-item">
+			<img src="/img/y1.jpg" alt="Imagem 1">
+			<div class="instagram-caption">
+			</div>
+		  </div>
+		  <div class="instagram-item">
+			<img src="/img/2.jpg" alt="Imagem 2">
+			<div class="instagram-caption">
+			</div>
+		  </div>
+		  <div class="instagram-item">
+			<img src="/img/y3.jpg" alt="Imagem 3">
+			<div class="instagram-caption">
+			</div>
+		  </div>
+		  <div class="instagram-item">
+			<img src="/img/1.jpg" alt="Imagem 4">
+			<div class="instagram-caption">
+			</div>
+		  </div>
+		  <div class="instagram-item">
+			<img src="/img/i2.jpg" alt="Imagem 5">
+			<div class="post-description">
+			</div>
+		  </div>
+		  <div class="instagram-item">
+			<img src="/img/i3.jpg" alt="Imagem 6">
+			<div class="post-description">
+		</div>
+			</div>
+		  </div>
+
+
+
+
+		<div class ="center-text2">
+		  <h2>Texto do Instagram</h2>
+		  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod mi id magna sodales, at vestibulum purus dignissim. Quisque sit amet odio vel eros suscipit pellentesque.</p>
+		</div>
+	  </div>
+	  
+	  
+
+
+
+
+
+	  
+
+
+	  <div class="instagram-gallery">
+		<div class="instagram-post">
+		  <img src="/img/blu1 (2).jpg" alt="Descrição da imagem 1">
+		  <h1>ehheh</h1>
+		  <p class="post-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut semper velit. Suspendisse a nunc at magna feugiat tincidunt. Sed feugiat malesuada tortor, eu vestibulum sapien tristique vel.</p>
+		</div>
+		<div class="instagram-post">
+		  <img src="/img/blu2.jpg" alt="Descrição da imagem 2">
+		  <h1>hehe</h1>
+		  <p class="post-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut semper velit. Suspendisse a nunc at magna feugiat tincidunt. Sed feugiat malesuada tortor, eu vestibulum sapien tristique vel.</p>
+		</div>
+		<div class="instagram-post">
+		  <img src="/img/blu3.jpg" alt="Descrição da imagem 3">
+		 <h1>heheh</h1> 
+		  <p class="post-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut semper velit. Suspendisse a nunc at magna feugiat tincidunt. Sed feugiat malesuada tortor, eu vestibulum sapien tristique vel.</p>
+		</div>
+	  </div>
+	  
+	 
+	  <div class="instagram-gallery">
+		<div class="instagram-post">
+		  <img src="/img/red1.jpg" alt="Descrição da imagem 1">
+		  <h1>ehheh</h1>
+		  <p class="post-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut semper velit. Suspendisse a nunc at magna feugiat tincidunt. Sed feugiat malesuada tortor, eu vestibulum sapien tristique vel.</p>
+		</div>
+		<div class="instagram-post">
+		  <img src="/img/red2.jpg" alt="Descrição da imagem 2">
+		  <h1>hehe</h1>
+		  <p class="post-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut semper velit. Suspendisse a nunc at magna feugiat tincidunt. Sed feugiat malesuada tortor, eu vestibulum sapien tristique vel.</p>
+		</div>
+		<div class="instagram-post">
+		  <img src="/img/red3.jpg" alt="Descrição da imagem 3">
+		 <h1>heheh</h1> 
+		  <p class="post-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut semper velit. Suspendisse a nunc at magna feugiat tincidunt. Sed feugiat malesuada tortor, eu vestibulum sapien tristique vel.</p>
+		</div>
+	  </div>
+	  
+	 
